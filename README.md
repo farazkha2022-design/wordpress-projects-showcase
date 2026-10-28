@@ -47,6 +47,13 @@ This repository showcases 19 WordPress websites from my professional portfolio.
 | 17 | PVC Doc | [Visit Website](https://pvcdoc.com/) |
 | 18 | VascuHealth | [Visit Website](https://myvascuhealth.com/) |
 | 19 | Dietitian Fainah | [Visit Website](https://dietitianfainah.com/) |
+| 20 | Freds 135 (Staging Site) | [Visit Website](https://freds135.sg-host.com/) |
+| 21 | Force Pro USA | [Visit Website](https://forceprousa.com/) |
+| 22 | Easy Accident Help | [Visit Website](http://easyaccidenthelp.com/) |
+| 23 | Web Work Done Now | [Visit Website](https://webworkdonenow.com/) |
+| 24 | National Battery Supply | [Visit Website](https://nationalbatterysupply.com/) |
+| 25 | Smartlands Tech | [Visit Website](https://smartlandstech.com/) |
+
 
 ---
 
